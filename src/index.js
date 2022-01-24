@@ -2,10 +2,10 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import 'animate.css';
 import './index.css';
-import GiftExpertApp from './GiftExpertApp';
+import GifExpertApp from './GifExpertApp';
 
 ReactDOM.render(
-    <GiftExpertApp />,
+    <GifExpertApp />,
   document.getElementById('root')
 );
 

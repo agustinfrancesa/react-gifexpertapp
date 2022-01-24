@@ -21,6 +21,7 @@ const AddCategory = ({setCategories}) => {
 
     return (
         <form onSubmit={handdleSubmit}>
+        <p>{inputValue}</p>
             <input
                 type="text"
                 value={inputValue}
